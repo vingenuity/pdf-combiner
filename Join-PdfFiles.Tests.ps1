@@ -1,0 +1,42 @@
+
+<#PSScriptInfo
+
+.VERSION 1.0.0
+
+.GUID ed3df631-bd1e-473d-b838-13431ce2813b
+
+.AUTHOR "Vincent Kocks"
+
+.COMPANYNAME
+
+.COPYRIGHT
+
+.TAGS
+
+.LICENSEURI
+
+.PROJECTURI
+
+.ICONURI
+
+.EXTERNALMODULEDEPENDENCIES
+
+.REQUIREDSCRIPTS
+
+.EXTERNALSCRIPTDEPENDENCIES
+
+.RELEASENOTES
+
+
+.PRIVATEDATA
+
+#>
+
+<#
+
+.DESCRIPTION
+ Contains Pester unit tests for the script 'Join-PdfFiles.ps1'.
+
+#>
+
+# Tests coming soon...

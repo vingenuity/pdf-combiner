@@ -1,0 +1,2 @@
+# Ignore any test PDF files unless otherwise specified.
+*.pdf
